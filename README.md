@@ -204,15 +204,7 @@ Ensure your IAM credentials have `sns:Publish` permission for the topic. Use a p
 
 ---
 
-## Future Enhancements
-
-- Add rate-limiting to the backend
-- Improve backend error logging
-- Allow frontend to select from multiple SNS topics
-
----
-
 ## Contact
 
-For bugs or suggestions, please [Email](muzamil301@gmail.com).  
+For bugs or suggestions, please muzamil301@gmail.com
 Thank you for using this project! 🚀
