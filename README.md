@@ -21,7 +21,7 @@ repository/
 
 ## Prerequisites
 
-- [Node.js](https://nodejs.org/) (v14.x or later)
+- [Node.js](https://nodejs.org/) (v18.x or later)
 - An **AWS account** with access to **SNS (Simple Notification Service)**
 - AWS IAM credentials with permission to interact with SNS
 
