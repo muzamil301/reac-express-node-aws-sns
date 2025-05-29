@@ -1,4 +1,4 @@
-# React + node + aws + SNS
+  # React + node + aws + SNS
 
 ## Overview
 
@@ -214,5 +214,5 @@ Ensure your IAM credentials have `sns:Publish` permission for the topic. Use a p
 
 ## Contact
 
-For bugs or suggestions, please [open an issue](https://github.com/your-repo/issues).  
+For bugs or suggestions, please [Email](muzamil301@gmail.com).  
 Thank you for using this project! 🚀
